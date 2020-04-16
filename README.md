@@ -57,8 +57,8 @@ _________________________
 | --------- | -------- | -------- |
 | ETH Address |0xEe0579b4C36fd52EC0A2B542fb801F136838B7f1  |  |
 |  |  |  |
-| Gitcoin     | [Gitcoin Grant Blog Stop Covid-19](https://)     | Text     |
-| Canada-Coronavirus |  [Service Canada Health and Diseases informations](https://)  |
+| Gitcoin     | [Gitcoin Grant Blog Stop Covid-19](https://https://gitcoin.co/blog/stop-covid-19/)     |      |
+| Canada-Coronavirus |  [Service Canada Health and Diseases informations](https://https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html)  |
                        
 
 
