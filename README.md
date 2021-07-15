@@ -37,39 +37,8 @@ _Visible network can be a problem with the everyday user. Phishing attacks to ge
 
 _________________________
 
- ![](https://i.imgur.com/wh9Xtzv.jpg)  sirlupinwatsoniii@devhacksolution.onmicrosoft.com[](https://wwww.facebook.com/sirlupinwatson1)![](https://i.imgur.com/PXwKJ61.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-| Catch Me If You Can!  | All donation goes to Stop The COVID-19 on Gitcoin!  |
-| --------- | -------- | -------- |
-| ETH Address |0xEe0579b4C36fd52EC0A2B542fb801F136838B7f1  |  |
-|  |  |  |
-| Gitcoin     | [Gitcoin Grant Blog Stop Covid-19](https://gitcoin.co/blog/stop-covid-19)     |      |
-| Canada-Coronavirus |  [Service Canada Health and Diseases informations](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html)  |
-                       
-
-
-
-
-
-
-
-
-----------------------
-[·ETHACK·MANAGEMENT·MARCH 10, 2020·]
+-------------------------
+[·ETHACK·MANAGEMENT·2021·]
 
 
 
