@@ -1,8 +1,7 @@
 # ETHack 
 
-https://github.com/user-attachments/assets/6219405c-308e-40b8-be69-bc7d6a2b403d
 
-
+https://github.com/sirlupinwatson/ETHack-Management-Service/blob/master/websiteETHACKtest3Wallet.mp4
 
 ### Greeting strangers... 
 
